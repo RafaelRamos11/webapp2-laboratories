@@ -8,9 +8,18 @@
 
 </head>
 <body>
-    <div class="div">
-        <h1><?php echo "Hello, World!"; ?></h1>
-    </div>
+
+       <?php echo "Hello, World!";
+       
+       
+       const BSIS2 =  (["Rafael", "wwwqwq"]);
+
+       if(true){
+        // define("BSIS2", ["Rafael", "eewqewq"]);
+
+        var_dump(BSIS2);
+       }
+?> 
 
     
 </body>
