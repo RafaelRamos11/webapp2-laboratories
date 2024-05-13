@@ -10,15 +10,7 @@
 <body>
 
        <?php echo "Hello, World!";
-       
-       
-       const BSIS2 =  (["Rafael", "wwwqwq"]);
 
-       if(true){
-        // define("BSIS2", ["Rafael", "eewqewq"]);
-
-        var_dump(BSIS2);
-       }
 ?> 
 
     
