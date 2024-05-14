@@ -2,14 +2,14 @@
 $name = "Rafael Ramos";
 $age = 20;
 $address = "San Miguel";
-$hobbies = "Play Music Video";  // I love music
-$pet_peeve = "Boastful"; // Be humble
+$hobbies = "Play Music Video";
+$pet_peeve = "Boastful"; 
 
 echo "Name: ". $name . "<br>";
 echo "Age: " . $age . "<br>";
 echo "Address: " . $address . "<br>";
-echo "Hobbies: " . $hobbies . "<br>";
-echo "Pet Peeve: " . $pet_peeve . "<br> <br>";
+// echo "Hobbies: " . $hobbies . "<br>";
+// echo "Pet Peeve: " . $pet_peeve . "<br> <br>";
 
 
 define("NAME", "RaffyRaff");
