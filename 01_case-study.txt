@@ -1,0 +1,34 @@
+Specific Problem Mentioned
+* Unresolved Bugs
+* Testing Process
+* Several Tasks
+
+The general problem: several tasks are still in progress and it is apparent to cause delay. 
+
+The possible circumstances inside the company: 
+* Communication and Collaboration Issue
+*  Resource Constraints
+* Inadequate planning
+
+
+As a software engineer, it is his duty to take care of his staff or subordinates, 
+to maintain the plan or carry out a project safely, so that it can be fulfilled in the stipulated time. 
+Possible factors that cause a project to be delayed are communication issues, resource constraints, inadequate planning. 
+Because of these, there is a problem because communication is important in doing the project 
+so that we know what is being completed in the daily tasks given, and also one of the reasons is the lack of people, 
+and the equipment, because if there is no lack of personnel and equipment a project can easily be completed 
+because there are enough personnel and equipment to do it. 
+And what is important to everyone is to give the right plan of what they should do 
+because without a proper plan a project cannot be worked properly and those who will do it should be given a task 
+so that they can focus on their task must be finished.
+
+
+If I am in this situation, my suggestion is that the project to be done should be detailed 
+so that the staff knows their goal and what they should do, and there should always be communication with each other 
+so that the software engineer knows the occurs in what he asks the staff he has to do 
+and one of the things that should not be lost is the resource constraint 
+because when doing a project there must be enough budget and staff to work for the set time that is set to finish 
+so if the budget is not enough, a project that is being done can really be delayed because with a software engineer 
+it has a beginning and an end when it will be finished, so the personnel and equipment needed to do this project should be 
+sufficient, because a project cannot be delayed when the complete materials used in making a project.
+
