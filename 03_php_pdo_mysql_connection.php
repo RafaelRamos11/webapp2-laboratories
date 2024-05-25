@@ -1,6 +1,11 @@
-<?php 
+<?php
 
-require "03_php_pdo_mysql_connection.php";
+$host = "localhost"; // My Localhost name
+$db = "student_record"; // My database name
+$user = "root"; // My sql user
+$password = ""; // Password
+
+// require "03_php_pdo_mysql_connection.php";
 
 $dsn = "mysql:host=$host; dbname=$db;charset=UTF8";
 $options = [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION];
@@ -25,5 +30,4 @@ try {
 
 } catch (PDOException $e) {
     echo $e->getMessage();}
-
 ?>
