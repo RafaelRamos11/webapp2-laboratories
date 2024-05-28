@@ -1,8 +1,9 @@
 CREATE TABLE posts(
-    user_id INT NOT NULL,
     id INT AUTO_INCREMENT PRIMARY KEY,
     title VARCHAR(255),
-    body VARCHAR(255) 
+    body VARCHAR(255),
+    user_id INT NOT NULL,
+    FOREIGN KEY (user_id) REFERENCES users(id)
 );
 
 INSERT INTO posts(user_id, title, body) VALUES(1,"sunt aut facere repellat provident occaecati excepturi optio reprehenderit", 
